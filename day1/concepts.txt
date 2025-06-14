@@ -1,0 +1,5 @@
+- if u use the variable const then you cannot change the value of the variable
+- you can have different values for same variable by using the namespaces 
+- typedef is used to give an alias to a datatype, so that you can use the datatype with a different name.
+suppose i have to use the " int " datatype with the name "myint" then i can use typedef int myint_t ; and then i can use myint_t instead of int. ( typedef end with _t )
+- instead typedef you can also use 'using' ( example : using myint = int; )
